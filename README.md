@@ -18,4 +18,5 @@ This activity used the following concepts:
 13. CSS Position
 14. Absolute and Relative Position
 
-Credits to SuperSimpleDev for the wonderful tutorial and also to the respective owners of the resources used in this project. Reference: https://www.youtube.com/watch?v=G3e-cpL7ofc&t=22324s
+Credits to SuperSimpleDev for the wonderful tutorial and also to the respective owners of the resources used in this project. 
+Reference: https://www.youtube.com/watch?v=G3e-cpL7ofc&t=22324s
